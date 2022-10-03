@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Megrim&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
+
+body {
+    font-family: "Work Sans", sans-serif;
+    text-align: center;
+  }
+  
+  
+header{
+    background-color: #023e8a;
+     color: white;
+     padding: 1rem auto;
+     overflow: hidden;
+     border-radius: 0.5rem;
+    }
+
+header h1{
+   padding-left: 10px;
+    font-size: 2.5rem;
+}    
+.heading{
+    text-align: left;
+}
+span a{
+    font-size: 1rem;
+    padding: 10px 10px;
+    margin-left: auto;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+.quiz-head{
+padding-right: 10px;
+padding-bottom: 10px;   
+padding: 10px 10px;
+    text-align: right;
+}
+.container{
+text-align: center;
+display: block}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-weight: bolder;
+}
+label{
+    color: #023e8a;
+    font-weight:800px;
+    padding: 20px 20px;
+    display: block;
+    text-align: center;
+    
+}
+input{
+border-radius: .5rem;
+border: 3px solid #023e8a;
+width: 100%;
+max-width: 258px;
+
+}
+
+button{
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 2rem auto;
+    
+    border: none;
+    font-weight: bolder;
+    font-size: large;
+    width: 100%;
+    max-width: 180px;
+    border-radius: 3rem;
+    cursor: pointer;
+    color: white;
+    background-color: #023e8a;
+}
+#output-boxarea{
+    font-weight: 800px;
+    font-size:x-large;
+    text-align: center;
+}
